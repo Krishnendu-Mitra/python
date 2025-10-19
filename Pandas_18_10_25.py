@@ -1,4 +1,4 @@
-"""**Python Pandas**
+"""**Computer Pandas**
 
 This is a lib -> Numpy
 
